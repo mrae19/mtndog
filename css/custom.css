@@ -35,8 +35,8 @@ button {
 }
 
 .cta-green {
-    background: #00FFAD;
-    color: #192440;
+    background: #BF7C41;
+    color: #FFF;
 }
 
 .cta-green:hover {
@@ -45,7 +45,7 @@ button {
 }
 
 .cta-blue {
-    background: #192440;
+    background: #0F2624;
     color: #ffffff;
 }
 
@@ -55,8 +55,8 @@ button {
 }
 
 .cta-ghost {
-    border: 2px solid #192440 !important;
-    color: #192440;
+    border: 2px solid #0F2624 !important;
+    color: #0F2624;
 }
 
 .cta-ghost:hover {
@@ -74,7 +74,7 @@ button {
 }
 
 #banner header img {
-    max-width: 80px;
+    max-width: 160px;
 }
 
 /********** feature (skew background) **********/
@@ -98,7 +98,7 @@ button {
 }
 
 #price-table__premium {
-    background: #192440;
+    background: #0F2624;
     color: #ffffff;
 }
 
@@ -128,7 +128,7 @@ button {
 
 /********** copyright **********/
 #copyright {
-    background: #192440;
+    background: #0F2624;
     padding: 2rem 3rem;
 }
 
@@ -141,7 +141,7 @@ button {
 }
 
 #copyright #social-media a i {
-    color: #192440;
+    color: #0F2624;
     font-size: 1.2rem;
     line-height: 40px;
 }
